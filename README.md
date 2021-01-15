@@ -105,8 +105,6 @@ Pentru a incepe criptarea unui mesaj utilizatorul trebuie sa inchida meniul de t
 <p>
 Dupa inchiderea acestui meniu se poate incepe introducerea de la tastatura fizica a unui mesaj care va fi criptat cu setarile initiale si care poate sa fie vizualizat folosind 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "meniul pentru input si output (foaia)."). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 <a href="#heading=h.c69pl8i5ejqj">meniul pentru input si output (foaia).</a>
 </p>
 <h2>Rotoare</h2>
@@ -114,8 +112,6 @@ Dupa inchiderea acestui meniu se poate incepe introducerea de la tastatura fizic
 
 <p>
 Pentru a schimba valoarea unui rotor se va selecta textul din 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "casuta de input"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 <a href="#heading=h.jvestq3aeup8">casuta de input</a> pentru acel rotor si se va modifica cu un numar cuprins intre 1 si 26 (inclusiv). 
 </p>
@@ -138,8 +134,6 @@ Dacă utilizatorul dorește sa modifice toate rotoarele acestea trebuie modifica
 <p>
 Cum se poate observa in exemple, deși utilizatorul nu doreste sa modifice valoarea rotorului trei, aceasta trebuie modificata pentru ca după modificarea rotorului doi se executa un cerc complet de rotiri care o sa schimbe implicit si valoarea rotorului trei (
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "vezi constructia rotoarelor"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 <a href="#heading=h.of0nkl96sc5n">vezi constructia rotoarelor</a>). 
 </p>
 <p>
@@ -150,8 +144,6 @@ Meniul cu valorile rotoarelor poate sa ramana deschis in timpul introducerii lit
 
 <p>
 Dupa deschiderea 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "meniului de mufe"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 <a href="#heading=h.n75irw5n8e9t">meniului de mufe</a> inputul de la tastatura fizica nu o sa mai fie citit pentru criptare, acest lucru fiind datorat faptului ca programul se asteapta ca utilizatorul sa modifice mufele folosind un input de tipul litera, care este de asemenea folosit in mod normal pentru criptare.
 </p>
@@ -214,10 +206,6 @@ Procesul de criptare urmeaza acesti pasi:
 </p>
 <p>
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -268,10 +256,6 @@ Mai departe va fi prezentat modul de funcționare printr-o reprezentare grafica 
 </p>
 <p>
 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="https://docs.google.com/drawings/d/12345/export/png" width="80%" alt="drawing">
 
 </p>
@@ -282,10 +266,6 @@ Acesta este doar un exemplu pentru înțelegerea mecanismului, în realitate am 
 Un exemplu cu setările inițiale 1|1|1 și fără mufe pe rotoarele folosite în program:
 </p>
 <p>
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="https://docs.google.com/drawings/d/12345/export/png" width="80%" alt="drawing">
 
@@ -315,10 +295,6 @@ Output: Y;
 
 
 <p>
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -353,10 +329,6 @@ InputText1, InputText2, InputText3 sunt casutele de input pentru rotația rotoar
 </p>
 <p>
 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -378,10 +350,6 @@ r1Rotation, r2Rotation, r3Rotation sunt variabile care stocheaza rotatia rotoare
 </p>
 <p>
 
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -399,10 +367,6 @@ plugs este o matrice ce stocheaza 1 daca [i,j] are o conexiune, unde i si j sunt
 <hr>
 </p>
 <p>
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -428,10 +392,6 @@ letterOutputS este varianta de tip string.
 
 <p>
 
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -455,8 +415,6 @@ In initializare folosim functia InitializeRotors() care transforma stringul de s
 </p>
 <p>
 (pentru letterToNumber() vezi 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "functii ajutatoare"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 <a href="#heading=h.hp2gssjceiq5">functii ajutatoare</a>)
 </p>
@@ -486,18 +444,10 @@ Pentru a verifica daca utilizatorul a apasat o litera contruim un vector de lite
 </p>
 <p>
 
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image8.png" width="" alt="alt_text" title="image_tooltip">
 Daca putem sa criptam si utilizatorul introduce spatiu doar scriem spatiu in input si output.
 </p>
 <p>
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -506,10 +456,6 @@ Daca putem sa criptam si utilizatorul introduce spatiu doar scriem spatiu in inp
 Aceasta bucata de cod verifica daca a mai fost ceva introdus inainte sau nu.
 </p>
 <p>
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image10.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -525,10 +471,6 @@ Construim vectorul de litere letters de tip char[], nu de string pentru ca avem 
 </p>
 <p>
 
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image11.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -540,17 +482,10 @@ Verificam daca litera curenta a fost apasata. Input.GetKeyDown se activeaza o si
 </p>
 <p>
 
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image12.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
-
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image13.png" width="" alt="alt_text" title="image_tooltip">
@@ -565,9 +500,6 @@ Schimbam letterN cu CheckPlugs(letterN), astfel daca exista o mufa conectata let
 <p>
 
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image14.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -575,9 +507,6 @@ Schimbam letterN cu CheckPlugs(letterN), astfel daca exista o mufa conectata let
 Salvam in letterOutput valoarea obtinuta dupa folosirea rotoarelor cu valoarea initiala letterN si cu modificarea rotatiei rotoarelor din interfata (true).
 </p>
 <p>
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image15.png" width="" alt="alt_text" title="image_tooltip">
@@ -589,24 +518,15 @@ Sa analizam pe rand elementele din aceasta functie.
 <p>
 
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image16.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
 Letter devine pe rand valoarea din rotor aflata la litera curenta. Aceasta bucata de cod realizarea schimbarea prezentata 
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "aici"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 <a href="#heading=h.of0nkl96sc5n">aici</a> cu liniile negre.
 </p>
 <p>
-
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image17.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -615,10 +535,6 @@ Letter devine pe rand valoarea din rotor aflata la litera curenta. Aceasta bucat
 Aceasta bucata de cod face schimbaarile prezentate la functionarea rotoarelor cu linia verde, adica intoarcerea dupa ce valoarea a fost cea din reflector. Pentru fiecare litera intr-un rotor verificam ce index are litera curenta. Acel index este litera din ordinea alfabetica care corespunde cu litera curenta.
 </p>
 <p>
-
-
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image18.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -630,10 +546,6 @@ La final doar rotim rotoarele si returnam litera dupa ce a fost schimbata. Acest
 rotateRotors(update), in cazul nostru update este true, adica dorim sa schimbam partea de UI care arata rotatia.
 </p>
 <p>
-
-
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image19.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -649,10 +561,6 @@ La final schimbam partea de UI daca aceasta trebuie schimbata
 </p>
 <p>
 
-
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image20.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -664,10 +572,6 @@ Aprindem beculetul de la litera obtinuta.
 </p>
 <p>
 
-
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image21.png" width="" alt="alt_text" title="image_tooltip">
  
 </p>
@@ -675,10 +579,6 @@ Aprindem beculetul de la litera obtinuta.
 <strong>Pasul 5 Actualizam elementele de UI</strong>
 </p>
 <p>
-
-
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image22.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -697,10 +597,6 @@ Daca utilizaatorul ridica tasta apasata anterior convertim rezultatul numeric in
 </p>
 <p>
 
-
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image23.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -715,10 +611,6 @@ Setarile de la mufe se afla pe fiecare mufa in parte si actualizeaza din exterio
 </p>
 <p>
 
-
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image24.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -726,10 +618,6 @@ Setarile de la mufe se afla pe fiecare mufa in parte si actualizeaza din exterio
 Fiecare capat de mufa are un capat conectat (connectedTo) si o referinta la enigma care stocheaza plugs[,].
 </p>
 <p>
-
-
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="images/image25.png" width="" alt="alt_text" title="image_tooltip">
 
@@ -742,10 +630,6 @@ De fiecare data cand utilizatorul incearca sa schimbe valoarea din casuta de inp
 </p>
 <p>
 
-
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image26.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -753,9 +637,6 @@ De fiecare data cand utilizatorul incearca sa schimbe valoarea din casuta de inp
 Sa analizam pe parti.
 </p>
 <p>
-
-
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image27.png" width="" alt="alt_text" title="image_tooltip">
@@ -767,9 +648,6 @@ Verifica daca litera introdusa are pe campul partener ceva introdus. Daca are pu
 <p>
 
 
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image28.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -777,9 +655,6 @@ Verifica daca litera introdusa are pe campul partener ceva introdus. Daca are pu
 Verificam daca a fost introdusa o singura litera sau mai multe. Daca este una singura putem sa continuam.
 </p>
 <p>
-
-
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image29.png" width="" alt="alt_text" title="image_tooltip">
@@ -790,10 +665,6 @@ J si k sunt valorile numerice ale literelor introduse.
 </p>
 <p>
 
-
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image30.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -803,9 +674,6 @@ Verificam daca putem sa pastram acest input.
 <p>
 
 
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image31.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -813,9 +681,6 @@ Verificam daca putem sa pastram acest input.
 Verificam daca perechea a mai fost introdusa, daca a fost introdusa o litera de doua ori si daca ambele au ca format o singura litera. Daca inputul respecta toate conditiile necesare atunci check o sa fie true, daca incalca oricare dintre ele, atunci o sa fie false.
 </p>
 <p>
-
-
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image32.png" width="" alt="alt_text" title="image_tooltip">
@@ -833,9 +698,6 @@ Pentru mufe avem si optiunea de a reseta valorile:
 <p>
 
 
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image33.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -848,9 +710,6 @@ Aici reinitializam plugs[,] si scriem peste tot “ “.
 <p>
 
 
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image34.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
@@ -858,9 +717,6 @@ Aici reinitializam plugs[,] si scriem peste tot “ “.
 Schimbare din int in string.
 </p>
 <p>
-
-
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image35.png" width="" alt="alt_text" title="image_tooltip">
@@ -880,9 +736,6 @@ Schimbare din char in int. Aici folosim -1 pentru a incepe cu a=0 nu a=1.
 Daca la rotoare se introduce o alta valoare care nu este cuprinsa intre 1 si 26 programul o sa intre într-un loop infinit pentru ca rnRotation cu n={1,2,3} are valori doar in intervalul [1,26].
 </p>
 <p>
-
-
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image36.png" width="" alt="alt_text" title="image_tooltip">
